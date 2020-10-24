@@ -1,0 +1,2 @@
+D:\TH LTHDT\Bài TH3\Bài TH3\obj\Debug\Bài TH3.csprojAssemblyReference.cache
+D:\TH LTHDT\Bài TH3\Bài TH3\obj\Debug\Bài TH3.csproj.CoreCompileInputs.cache
